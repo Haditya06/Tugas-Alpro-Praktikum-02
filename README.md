@@ -3,8 +3,8 @@
 
 ## Bab II – Variabel, Tipe Data, dan Operator.
 
-Dokumen ini merupakan bagian dari mata kuliah **Algoritma dan Pemrograman Komputer** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
-Bab ini membahas dasar pemrograman yaitu **variabel**, **tipe data**, dan **operator**, yang menjadi fondasi utama dalam menulis program menggunakan bahasa **Java**.
+Dokumen ini merupakan bagian dari mata kuliah **Algoritma Pemrograman** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2025)**.
+membahas dasar pemrograman yaitu **variabel**, **tipe data**, dan **operator**, yang menjadi fondasi utama dalam menulis program menggunakan bahasa **Java**.
 
 ---
 
