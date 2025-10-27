@@ -1,5 +1,5 @@
 # Tugas-Alpro-Praktikum-02 
-# 📘 Algoritma dan Pemrograman Komputer
+# 📘 Algoritma Pemrograman 
 
 ## Bab II – Variabel, Tipe Data, dan Operator.
 
