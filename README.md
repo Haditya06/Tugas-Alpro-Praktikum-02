@@ -1,7 +1,7 @@
 # Tugas-Alpro-Praktikum-02 
 # 📘 Algoritma dan Pemrograman Komputer
 
-## Bab II – Variabel, Tipe Data, dan Operator
+## Bab II – Variabel, Tipe Data, dan Operator.
 
 Dokumen ini merupakan bagian dari mata kuliah **Algoritma dan Pemrograman Komputer** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
 Bab ini membahas dasar pemrograman yaitu **variabel**, **tipe data**, dan **operator**, yang menjadi fondasi utama dalam menulis program menggunakan bahasa **Java**.
@@ -9,8 +9,6 @@ Bab ini membahas dasar pemrograman yaitu **variabel**, **tipe data**, dan **oper
 ---
 
 ## 🎯 Tujuan Pembelajaran
-
-Mahasiswa diharapkan mampu:
 
 1. Menentukan jenis **variabel** dan **tipe data** yang sesuai untuk setiap kebutuhan data.
 2. Membuat program sederhana untuk **menerima input**, **mengolah data**, dan **menampilkan hasil** dengan benar.
