@@ -29,7 +29,7 @@ Tujuan dari latihan ini adalah agar mahasiswa memahami bahwa setiap data memilik
 
 ---
 
-#### 2. Konversi Suhu dari Celsius ke Kelvin, Fahrenheit, dan Reamur
+#### 2. Konversi Suhu dari Celsius ke Kelvin, Fahrenheit, dan Reamur 
 
 Latihan ini meminta mahasiswa membuat program konversi suhu dari **Celsius** ke tiga satuan lainnya (**Kelvin**, **Fahrenheit**, dan **Reamur**).
 Konsep ini melatih pemahaman terhadap penggunaan **variabel bertipe data numerik**, serta operasi aritmetika dasar dalam pemrograman.
